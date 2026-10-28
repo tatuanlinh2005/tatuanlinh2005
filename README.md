@@ -47,4 +47,4 @@ I approach technical problems from a first-principles perspective—focusing on 
 ### 📫 Connect with Me
 - 📍 **Location:** Hanoi, Vietnam
 - 💼 **LinkedIn:** [Facebook](https://facebook.com/linh.tatuan.355)
-- 📧 **Email:** [ttlinh102005@gmail.com]
+- 📧 **Email:** ttlinh102005@gmail.com
