@@ -1,4 +1,4 @@
-ơ# Hi there, I'm Ta Tuan Linh 👋
+# Hi there, I'm Ta Tuan Linh 👋
 
 **Information Technology & Cybersecurity Student | Systems Programming & Cryptography Enthusiast**
 
